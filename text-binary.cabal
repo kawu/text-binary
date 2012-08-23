@@ -1,0 +1,11 @@
+Name:               text-binary
+Version:            0.0.1
+Synopsis:           Binary instances for strict and lazy Text data types
+Author:             Jakub Waszczuk
+Maintainer:         waszczuk.kuba@gmail.com
+Build-type:         Simple
+Exposed-modules:    Data.Text.Binary
+                  , Data.Text.Lazy.Binary
+Build-Depends:      base
+                  , text
+		  , binary
