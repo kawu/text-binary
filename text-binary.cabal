@@ -1,8 +1,10 @@
 name:               text-binary
-version:            0.1.0
+version:            0.2.0
 synopsis:           Binary instances for text types
-description:	
-    The library provides binary instances for strict and lazy text types.
+description:
+    A compatibility layer providing Binary instances for strict
+    and lazy text types for versions older than 1.2.1 of
+    <https://hackage.haskell.org/package/text>.
 license:            BSD3
 license-file:       LICENSE
 cabal-version:      >= 1.6
