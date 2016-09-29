@@ -1,4 +1,6 @@
 -*-change-log-*-
 
+0.2.1.1
+	* Change BSD3 -> BSD2 in the cabal file
 0.2.1
 	* Propagate decoding failure in the Get monad
