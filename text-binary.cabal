@@ -1,11 +1,11 @@
 name:               text-binary
-version:            0.2.1
+version:            0.2.1.1
 synopsis:           Binary instances for text types
 description:
     A compatibility layer providing Binary instances for strict
     and lazy text types for versions older than 1.2.1 of
     <https://hackage.haskell.org/package/text>.
-license:            BSD3
+license:            BSD2
 license-file:       LICENSE
 cabal-version:      >= 1.6
 author:             Jakub Waszczuk
